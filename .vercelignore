@@ -1,0 +1,11 @@
+/node_modules
+/vendor
+/tests
+/.git
+/.agents
+/.claude
+/.codex
+/.cursor
+/.vscode
+*.log
+.env
